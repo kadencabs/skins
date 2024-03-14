@@ -51,3 +51,7 @@
 # [bojii 2022 edit](https://drive.google.com/file/d/1B4T5xV9P0RF4QiH0xy0nBj1JPpkr6qTi/view?usp=drive_link)
 ![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/13.png)
 <br>
+
+# [nico777playz attang notes](https://drive.google.com/file/d/1aAfBSG-eZqEPvumJT7tANYhAVRoFSaE3/view?usp=drive_link)
+![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/14.png)
+<br>
