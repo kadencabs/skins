@@ -27,3 +27,11 @@
 # [myuka gamma](https://drive.google.com/file/d/1xoO74xzCpkprX9GJrXNZrjixwMF16ARk/view?usp=drive_link)
 ![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/7.png)
 <br>
+
+# [pirupi blue](https://drive.google.com/file/d/1yv34jHCdDhiNdGoP9OX_tCwKI2ygtfxz/view?usp=drive_link)
+![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/8.png)
+<br>
+
+# [pirupi green](https://drive.google.com/file/d/14knj-LcoTkf6rirIHyTe8u7GYlX7nAD_/view?usp=drive_link)
+![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/9.png)
+<br>
