@@ -12,7 +12,7 @@
 ![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/3.png)
 <br>
 
-# [zzz](https://drive.google.com/file/d/14knj-LcoTkf6rirIHyTe8u7GYlX7nAD/view?usp=drive)
+# [zzz](https://drive.google.com/file/d/14knj-LcoTkf6rirIHyTe8u7GYlX7nAD_/view?usp=drive_link)
 ![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/4.png)
 <br>
 
