@@ -47,3 +47,7 @@
 # [bojii 2023 older edit](https://drive.google.com/file/d/1-txjA1hKpkLnsxy7wVs2CYw2jAZdRKmr/view?usp=drive_link)
 ![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/12.png)
 <br>
+
+# [bojii 2022 edit](https://drive.google.com/file/d/1B4T5xV9P0RF4QiH0xy0nBj1JPpkr6qTi/view?usp=drive_link)
+![screenshot34371](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/13.png)
+<br>
