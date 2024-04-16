@@ -1,5 +1,7 @@
 # skins
 
+# idk how to fix images not showing for other people only works on my side :((((((
+
 # [current](https://drive.google.com/file/d/1P2Vl119ZWYFpGqL-C_ql8xaked8jHSYI/view?usp=sharing)
 ![screenshot34371](https://github.com/kadencabs/skin-images/blob/05e29af50ff08902e49c4b84e974f1013901ced4/current.png)
 <br>
