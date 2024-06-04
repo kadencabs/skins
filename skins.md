@@ -1,4 +1,4 @@
-# skins
+# My Skins
 
 # [june 2024](https://drive.google.com/file/d/1M_b_qtmG7WpOSLvpXaYyx3i3G3CDtyy-/view?usp=sharing)
 ![screenshot](https://github.com/kadencabs/skin-images/blob/3d5a3f4e9c2b0acd080a4632dcdf3e4396dca90f/june%202024.png)
