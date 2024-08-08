@@ -1,5 +1,7 @@
 # My Skins
 
+# I dont know if im missing anything
+
 # [June 2024](https://drive.google.com/file/d/1M_b_qtmG7WpOSLvpXaYyx3i3G3CDtyy-/view?usp=sharing)
 ![screenshot](https://github.com/kadencabs/skin-images/blob/3d5a3f4e9c2b0acd080a4632dcdf3e4396dca90f/june%202024.png)
 <br>
@@ -8,12 +10,8 @@
 ![screenshot](https://github.com/kadencabs/skin-images/blob/05e29af50ff08902e49c4b84e974f1013901ced4/current.png)
 <br>
 
-# [Saragi green](https://drive.google.com/file/d/19lZp0neVljXfz1lw3PTXozTrfvrhyaZW/view?usp=drive)
+# [Saragi green thing](https://drive.google.com/file/d/19lZp0neVljXfz1lw3PTXozTrfvrhyaZW/view?usp=drive)
 ![screenshot](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/2.png)
-<br>
-
-# [Saragi blue edit](https://drive.google.com/file/d/1ezIarbq56lvFXRYmXuhpk1OeTRGOxVLM/view?usp=drive)
-![screenshot](https://github.com/kadencabs/skin-images/blob/dbba62bdcd1e54830be16a100da6c242c9b65771/3.png)
 <br>
 
 # [Zzz](https://drive.google.com/file/d/13v3wXJqJmGVnrSTbh45vWe0tGpsLJ6f5/view?usp=drive_link)
