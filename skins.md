@@ -2,13 +2,13 @@
 
 # I dont know if im missing anything
 
+# Here is the beta version I am working on it is visually the same but Im adding sounds (8/11/24)
+
+# https://drive.google.com/file/d/1Y8BBjcfPRWsz6bPURP9E5z-AGr6qPXmC/view?usp=sharing
+
 # [August 2024](https://drive.google.com/file/d/1VnC2-Cxwnsik-q1ZhFNtkd3NLihf9LKZ/view?usp=sharing)
 ![screenshot](https://github.com/kadencabs/skin-images/blob/438225d136b21457dd81e369bebdd92affd34102/chrome_nEgsMdqQXc.png)
 <br>
-
-# Here is the beta version I am working on it is visually the same but Im adding sounds
-
-# https://drive.google.com/file/d/1Y8BBjcfPRWsz6bPURP9E5z-AGr6qPXmC/view?usp=sharing
 
 # [June 2024](https://drive.google.com/file/d/1M_b_qtmG7WpOSLvpXaYyx3i3G3CDtyy-/view?usp=sharing)
 ![screenshot](https://github.com/kadencabs/skin-images/blob/3d5a3f4e9c2b0acd080a4632dcdf3e4396dca90f/june%202024.png)
