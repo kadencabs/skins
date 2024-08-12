@@ -2,6 +2,10 @@
 
 # I dont know if im missing anything
 
+# [August 2024](https://drive.google.com/file/d/1w4zbju90YpPkAbRUw8opAIDoTY4shFzj/view?usp=sharing)
+![screenshot](https://github.com/kadencabs/skin-images/blob/438225d136b21457dd81e369bebdd92affd34102/chrome_nEgsMdqQXc.png)
+<br>
+
 # [June 2024](https://drive.google.com/file/d/1M_b_qtmG7WpOSLvpXaYyx3i3G3CDtyy-/view?usp=sharing)
 ![screenshot](https://github.com/kadencabs/skin-images/blob/3d5a3f4e9c2b0acd080a4632dcdf3e4396dca90f/june%202024.png)
 <br>
